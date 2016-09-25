@@ -24,13 +24,13 @@ build/Release
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
+node_modules/
 
 #dist folder
 dist
 
 # IDEA/Webstorm project files
-.idea
+.idea/
 *.iml
 
 #VSCode metadata
