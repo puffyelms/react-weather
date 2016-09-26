@@ -12,3 +12,4 @@ https://mysterious-tor-31955.herokuapp.com/
 
 git push heroku master
 
+heroku open
